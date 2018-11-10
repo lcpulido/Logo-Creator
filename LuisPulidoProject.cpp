@@ -19,13 +19,6 @@ using namespace std;
 
 
 
-//using these constanst gave me an error when compiling so I just used the number instead 
-////constants used in my arrays
-//const int PSIZE = 10;
-////31 possible letters
-//const int MESSAGESIZE = 31;
-////each letter only uses 5 lines
-//const int SIZE = 5; 
 
 
 //multidimensional array stores my letters 
